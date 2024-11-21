@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main() {
     float height = 1.82;  //given height.
     float weight = 72; //given weight.
